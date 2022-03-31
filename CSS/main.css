@@ -2,8 +2,10 @@
 
 html {
     font-family: sans-serif;
-    font-size: 30px;
+    
 }
+
+
 
 h1, h2, h3, h4, h5, h6 {
     font-family: "Oxygen", arial;
@@ -104,7 +106,7 @@ h1, h2, h3, h4, h5, h6 {
 .middle-content p {
     line-height: 1.5;
     color: #222;
-    
+    font-size: 20px;
 }
 
 .middle-content span[class^=icon] {
@@ -114,6 +116,7 @@ h1, h2, h3, h4, h5, h6 {
 
 .main-content {
     padding: 2em;
+    font-size: 20px;
 }
 
 .main-content p {
@@ -168,6 +171,8 @@ h1, h2, h3, h4, h5, h6 {
     .top-header-logo {
         float: left;
     }
+
+   
 
     .icon-play {
         display: block;
